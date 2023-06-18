@@ -10,11 +10,11 @@
 CMD -> main.go
 
 PKG ->
-    Config -> APP.GO
-    controllers -> BOOK-Controller
-    models -> BOOK.GO
-    routes -> BOOKSTORE-ROUTES
-    utils -> Utils.go
+    1. Config -> APP.GO
+    2. controllers -> BOOK-Controller
+    3. models -> BOOK.GO
+    4. routes -> BOOKSTORE-ROUTES
+    5. utils -> Utils.go
 
 ## Routes
 1. GetBooks <- /book/ <- GET
